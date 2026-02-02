@@ -13,6 +13,7 @@ print(2 * 5)
 
 
 b = "Hello, World!"
-print(b[2:5])0
+print(b[::-1])
 
 print("I am", 35, "years old.")
+x=float(3)
